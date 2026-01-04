@@ -32,7 +32,7 @@ Configured system monitoring tools to ensure visibility into **system health, pe
 
 ### Logging
 System metrics are logged for later review at:
-<img width="1146" height="160" alt="gemotery_calculator" src="https://github.com/user-attachments/assets/5f959ae4-d9c6-4aee-811c-3cffad90b02f" />
+<img width="1146" height="160" alt="HTOP" src="https://github.com/sannnn1234/Testing-Linux-and-Servers_Herovired/blob/main/HTOP.png" />
 
 ```bash
 /var/log/system_monitoring/metrics.log
