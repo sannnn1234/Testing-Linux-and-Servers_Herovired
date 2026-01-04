@@ -3,7 +3,7 @@
 ##  Overview
 This repository contains the implementation for setting up and managing a **secure, monitored, and well-maintained development environment** as part of a DevOps assignment.
 
-The objective of this project is to assist a **Senior DevOps Engineer** in:
+The objective of this project in:
 
 - Monitoring system performance
 - Managing user access securely
@@ -32,6 +32,7 @@ Configured system monitoring tools to ensure visibility into **system health, pe
 
 ### Logging
 System metrics are logged for later review at:
+<img width="1146" height="160" alt="gemotery_calculator" src="https://github.com/user-attachments/assets/5f959ae4-d9c6-4aee-811c-3cffad90b02f" />
 
 ```bash
 /var/log/system_monitoring/metrics.log
@@ -45,7 +46,7 @@ System metrics are logged for later review at:
 
 ---
 
-## 🟢 Task 2: User Management and Access Control
+## Task 2: User Management and Access Control
 
 Created secure user accounts with **isolated workspaces** and enforced **password security policies**.
 
