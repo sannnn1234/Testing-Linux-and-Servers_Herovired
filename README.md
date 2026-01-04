@@ -68,6 +68,8 @@ Created secure user accounts with **isolated workspaces** and enforced **passwor
 * Password expiry warning enabled
 
 📸 Screenshots included showing:
+<img width="1146" height="160" src="https://github.com/sannnn1234/Testing-Linux-and-Servers_Herovired/blob/main/Screenshot%20(11).png" />
+<img width="1146" height="160" src="https://github.com/sannnn1234/Testing-Linux-and-Servers_Herovired/blob/main/Screenshot%20(12).png" />
 
 * User creation
 * Directory permissions
