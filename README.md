@@ -125,8 +125,6 @@ $ sudo crontab -l
 0 0 * * 2 /usr/local/bin/nginx_backup.sh
 ```
 
-📸 Screenshots included showing:
-
 * Cron configuration
 * Backup execution
 * Verification logs
